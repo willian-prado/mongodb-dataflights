@@ -2,10 +2,7 @@
 
 > Quarto projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
 
-Primeiro projeto sobre MongoDB, aqui aplicamos nossos conhecimentos sobre métodos mais básicos, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores de comparação e lógicos utilizados junto do método `find()`.
-Treinamos, principalmente, nossa habilidade de construir um banco de dados relacional a partir de uma planilha com dados não normalizados.
-Com o auxílio de um diagrama ER (entidade-relacionamento) definimos as entidades, tabelas e relacionamentos esperados para seguir regras
-de negócio previamente definidas, obedecendo a 3ª regra normal.
+Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre métodos básicos, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores lógicos e de comparação usados juntos do método `find()`.
 
 ### Objetivo do projeto
 
