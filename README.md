@@ -6,8 +6,7 @@ Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre m�
 
 ### Objetivo do projeto
 
-Revisar todos os conceitos aprendidos até o momento, construindo um banco de dados chamado Dataflights.
-Assim, vamos elaborar _queries_ em `mongo` para:
+Revisar todos os conceitos aprendidos até o momento, construindo um banco de dados chamado Dataflights e elaborar _queries_ em `mongo` para:
 
 - Consultar a coleção do projeto, usando vários campos para filtrar essa busca, 
 - Deletar alguns voos conforme outros filtros.
