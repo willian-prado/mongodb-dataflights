@@ -2,9 +2,11 @@
 
 > Quarto projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
 
-Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre métodos básicos, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores lógicos e de comparação usados juntos do método `find()`.
+**Contexto**
 
-### Objetivo do projeto
+Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre métodos básicos de leitura, escrita e deleção, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores lógicos e de comparação usados juntos do método `find()`.
+
+**Objetivo do projeto**
 
 Revisar todos os conceitos aprendidos até o momento, construindo um banco de dados chamado Dataflights e elaborar _queries_ em `mongo` para:
 
@@ -12,13 +14,16 @@ Revisar todos os conceitos aprendidos até o momento, construindo um banco de da
 - Deletar alguns voos conforme outros filtros.
 - Contar voos compreendidos nos filtros.
 
-### Principais habilidades desenvolvidas nesse trabalho:
+**Principais habilidades desenvolvidas nesse trabalho**
 
 - Buscar documentos no banco
 - Usar filtros na busca
 - Deletar documentos conforme filtro
 - Contar documentos compreendidos nos filtros pedidos
 - Inserir documentos no banco
+
+**Tecnologia utilizada**
+- <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" align="center" height="35"/> - MongoDB</a>
 
 ---
 
