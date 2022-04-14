@@ -4,7 +4,8 @@
 
 **Contexto**
 
-Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre métodos básicos de leitura, escrita e deleção, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()` e operadores lógicos e de comparação usados juntos do método `find()`.
+Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre métodos básicos de leitura, escrita e deleção, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()`. Além disso, vimos operadores lógicos e de comparação que são usados em conjunto 
+do método `find()`.
 
 **Objetivo do projeto**
 
