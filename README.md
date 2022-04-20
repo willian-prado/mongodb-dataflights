@@ -1,11 +1,10 @@
 ## Projeto Dataflights
 
-> Quarto projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
+> Quarto projeto do módulo de Back-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
-Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre métodos básicos de leitura, escrita e deleção, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()`. Além disso, vimos operadores lógicos e de comparação que são usados em conjunto 
-do método `find()`.
+Neste projeto, o primeiro sobre MongoDB, aplicamos nossos conhecimentos sobre métodos básicos de leitura, escrita e deleção, como `find()`, `insertOne()`, `insertMany()`, `deleteOne()`, `deleteMany()`. Além disso, vimos operadores lógicos e de comparação utilizados para filtrar documentos.
 
 **Objetivo do projeto**
 
@@ -101,3 +100,7 @@ Para isso, escreva no arquivo `desafio28.js` duas queries, **nesta ordem**:
 1. Conte quantos voos da empresa `LATAM AIRLINES BRASIL` cujo campo `natureza` possua valor igual a `Doméstica` e crie uma query que insira na coleção `resumoVoos` um documento com os campos: `empresa` (nome da empresa) e `totalVoosDomesticos` (o total retornado anteriormente).
 
 2. Em uma segunda query, retorne a `empresa` e o `totalVoosDomesticos` do primeiro documento presente na coleção `resumoVoos` em que a empresa seja `LATAM AIRLINES BRASIL`.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
